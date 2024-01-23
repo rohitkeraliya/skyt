@@ -331,7 +331,7 @@ gallery:true,item:1,loop:false,thumbItem:5,thumbMargin:15,});
 
     function showId(id) {
       
-        window.location.href = 'okokok.html?data=' + encodeURIComponent(id);
+       window.location.href = 'https://dhasashopping2.blogspot.com/p/okokok.html?data=' + encodeURIComponent(id);
       
      
     }
